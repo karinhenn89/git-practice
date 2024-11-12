@@ -5,8 +5,10 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Hello people!");
+        String text = "New World";
 
-        System.out.println("Hello and welcome!");
+        System.out.println(text);
 
     }
 }
