@@ -4,7 +4,6 @@ public class person {
 
         System.out.println("Person");
 
-        //TODO bux fix
 
     }
 }
